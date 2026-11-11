@@ -1,0 +1,619 @@
+{
+  "status": "pending_export",
+  "mm_per_unit": null,
+  "d_ref": null,
+  "base_light": {
+    "type": "point",
+    "intensity": null,
+    "color": [
+      1,
+      1,
+      1
+    ]
+  },
+  "configs": [
+    {
+      "id": "L0",
+      "level": "L0",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L1_s0.5",
+      "level": "L1",
+      "type": "point",
+      "intensity_scale": 0.5,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L1_s2.0",
+      "level": "L1",
+      "type": "point",
+      "intensity_scale": 2,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L2_fwd",
+      "level": "L2",
+      "type": "spot",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": 30,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L2_yaw+10",
+      "level": "L2",
+      "type": "spot",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": 10,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": 30,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L2_yaw-10",
+      "level": "L2",
+      "type": "spot",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": -10,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": 30,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L2_yaw+20",
+      "level": "L2",
+      "type": "spot",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": 20,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": 30,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L2_yaw-20",
+      "level": "L2",
+      "type": "spot",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": -20,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": 30,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L2_yaw+40",
+      "level": "L2",
+      "type": "spot",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": 40,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": 30,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L2_yaw-40",
+      "level": "L2",
+      "type": "spot",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": -40,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": 30,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L2_pitch+20",
+      "level": "L2",
+      "type": "spot",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 20,
+      "spot_inner_deg": null,
+      "spot_outer_deg": 30,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L2_pitch-20",
+      "level": "L2",
+      "type": "spot",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": -20,
+      "spot_inner_deg": null,
+      "spot_outer_deg": 30,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L3_r0.10",
+      "level": "L3",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0.1,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow",
+        "shadow"
+      ]
+    },
+    {
+      "id": "L3_r0.25",
+      "level": "L3",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0.25,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow",
+        "shadow"
+      ]
+    },
+    {
+      "id": "L3_r0.50",
+      "level": "L3",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0.5,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow",
+        "shadow"
+      ]
+    },
+    {
+      "id": "L3_r1.00",
+      "level": "L3",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        1,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow",
+        "shadow"
+      ]
+    },
+    {
+      "id": "L3_u0.25",
+      "level": "L3",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0.25,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow",
+        "shadow"
+      ]
+    },
+    {
+      "id": "L3_u0.50",
+      "level": "L3",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0.5,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow",
+        "shadow"
+      ]
+    },
+    {
+      "id": "L3_f+0.25",
+      "level": "L3",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0.25
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow",
+        "shadow"
+      ]
+    },
+    {
+      "id": "L3_f-0.25",
+      "level": "L3",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        -0.25
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow",
+        "shadow"
+      ]
+    },
+    {
+      "id": "L4_red",
+      "level": "L4",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        0.5,
+        0.5
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L4_green",
+      "level": "L4",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        0.5,
+        1,
+        0.5
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L4_blue",
+      "level": "L4",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        0.5,
+        0.5,
+        1
+      ],
+      "offset_dref": [
+        0,
+        0,
+        0
+      ],
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": false,
+      "variants": [
+        "noshadow"
+      ]
+    },
+    {
+      "id": "L5_seg1",
+      "level": "L5",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": null,
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": true,
+      "variants": [
+        "noshadow",
+        "shadow"
+      ]
+    },
+    {
+      "id": "L5_seg2",
+      "level": "L5",
+      "type": "point",
+      "intensity_scale": 1,
+      "color_scale": [
+        1,
+        1,
+        1
+      ],
+      "offset_dref": null,
+      "yaw_deg": 0,
+      "pitch_deg": 0,
+      "spot_inner_deg": null,
+      "spot_outer_deg": null,
+      "world_fixed": true,
+      "variants": [
+        "noshadow",
+        "shadow"
+      ]
+    }
+  ],
+  "frames": []
+}
