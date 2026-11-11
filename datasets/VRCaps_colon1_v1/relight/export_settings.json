@@ -1,0 +1,21 @@
+{
+  "status": "pending_export",
+  "unity_version": null,
+  "render_pipeline": null,
+  "color_space": null,
+  "fixed_exposure": null,
+  "png_encoding": null,
+  "resolution": null,
+  "camera_angle_x": null,
+  "depth_channel": null,
+  "light_type": null,
+  "distance_attenuation": null,
+  "light_range": null,
+  "light_radius": null,
+  "shadow_settings": null,
+  "environment_lighting": null,
+  "indirect_lighting": null,
+  "tonemapping": null,
+  "post_processing": null,
+  "subsurface_scattering": null
+}
