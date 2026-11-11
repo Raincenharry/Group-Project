@@ -5,6 +5,7 @@ vrcaps_format_sample/
 vrcaps_format_sample.zip
 
 # Local environment and outputs
+.claude/settings.local.json
 relight_eval/.venv/
 eval_relight/
 __pycache__/
