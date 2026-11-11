@@ -1,0 +1,6 @@
+numpy
+scipy
+pillow
+matplotlib
+OpenEXR>=3.3        # or opencv-python, used as a fallback for EXR
+# optional, only for --lpips: torch, lpips
